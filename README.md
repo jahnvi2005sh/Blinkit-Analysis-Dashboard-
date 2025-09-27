@@ -79,3 +79,4 @@ Customer Engagement: Ratings correlated with product and outlet types help desig
 Strategic Decisions: Provides a data-driven foundation for marketing, stocking, and location-based expansion.
 
 Screenshots / Demos
+https://github.com/jahnvi2005sh/Blinkit-Analysis-Dashboard-/blob/main/Blinkit%20Dashboard..png
