@@ -81,3 +81,4 @@ Strategic Decisions: Provides a data-driven foundation for marketing, stocking, 
 Screenshots / Demos
 [Dashboard Preview]
 (https://github.com/jahnvi2005sh/Blinkit-Analysis-Dashboard-/blob/main/Blinkit%20Dashboard..png)
+![Uploading Blinkit Dashboard..png…]()
