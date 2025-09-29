@@ -1,6 +1,9 @@
+![Dashboard Preview](https://github.com/jahnvi2005sh/Blinkit-Analysis-Dashboard-/blob/main/Blinkit%20Dashboard..png)  
+
+
 # Blinkit Dashboard  
 
-## Recommended Structure and Order  
+ 
 
 ### 1. Project Title / Headline  
 📦 **Blinkit Analytics: Sales, Customer & Outlet Performance Dashboard**  
@@ -60,7 +63,4 @@ To provide an interactive visual tool that:
 
 ---
 
-### 6. Screenshots / Demos  
- 
-look at a dashboard :   
-![Dashboard Preview](https://github.com/jahnvi2005sh/Blinkit-Analysis-Dashboard-/blob/main/Blinkit%20Dashboard..png)  
+   
